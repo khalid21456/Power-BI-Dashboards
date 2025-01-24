@@ -1,4 +1,4 @@
 # Power-BI-Dashboards
 
 
-![Power BI dashboard](image.png)
+![Power BI dashboard](Data Professional Survey Breakdown/Dataimage.png)
