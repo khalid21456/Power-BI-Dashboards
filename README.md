@@ -1,7 +1,7 @@
 # Power-BI-Dashboards
 
 
-# ***Data Survey Breakdown***
+# ***Data Professional Survey Breakdown***
 
 ![Power BI dashboard](image.png)
 
