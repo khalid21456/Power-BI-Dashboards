@@ -5,4 +5,7 @@
 
 ![Power BI dashboard](image.png)
 
+
+# ***Spotify Data Analysis***
+
 ![Power BI dashboard](image2.jpg)
